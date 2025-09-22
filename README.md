@@ -20,4 +20,5 @@ Philosophy of mind · Ethical hacking · Conscious design · Psychology · Human
 > "Technology should amplify our humanity, not replace it."
 
 🔗 Connect:  
+[Profilio](https://mohsin-raja.vercel.app) | 
 [its-rex.onrender.com](https://its-rex.onrender.com) | [team11z.vercel.app](https://team11z.vercel.app) | [X](https://x.com/theamal11x) | [LinkedIn](https://www.linkedin.com/in/mohsin-raja-516595368)
