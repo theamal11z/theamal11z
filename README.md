@@ -1,5 +1,5 @@
 🚀 Mohsin Raja | Innovator · Developer · Humanist  
-🇳🇵 Birgunj, Nepal | 18 y/o | Bio-Math Student | Self-taught Technologist  
+🇳🇵 Birgunj, Nepal | 17 y/o | Bio-Math Student | Self-taught Technologist  
 
 I'm a developer driven by philosophy, psychology, and the desire to build things that **amplify our humanity**.  
 From robotics to emotional tech, my focus is on creating digital experiences that people remember for how they **felt**, not just what they **did**.
