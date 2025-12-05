@@ -1,81 +1,68 @@
-# 🚀 Mohsin Raja — Innovator | Developer | Neuro-Tech Aspirant  
-🇳🇵 Birgunj, Nepal | 17 y/o | Bio-Math Student | Self-Taught Technologist  
+# Mohsin Raja  
+Innovator · Developer · Neuro-Tech Aspirant  
+Birgunj, Nepal | 17 y/o | Bio-Math Student
 
-I build systems that merge **emotion, intelligence, and technology**.  
-My work spans neuroengineering concepts, AI-driven tools, community platforms, and experimental digital experiences that aim to **amplify human potential**—not replace it.
-
-I think like a scientist, create like an artist, analyze like a psychologist, and build like an engineer.  
-My long-term aspiration is to contribute to the next phase of **post-human evolution**.
-
----
-
-## 🧩 Current Focus  
-- AI-integrated productivity systems  
-- Behavioral analytics & human–tech symbiosis  
-- Neuroengineering & augmentation concepts  
-- Emotional technology & digital psychology  
-- Community platforms with real social impact  
+I work at the intersection of technology, psychology, and human experience.  
+My focus is on building systems that improve how people think, learn, connect, and understand themselves.  
+Most of my projects explore ideas like human-AI cooperation, behavioral insight, emotional design, and long-term impact.
 
 ---
 
-## 🛠 Major Projects (Active)
-
-### **🧠 Rethinkr — Concept Synthesizer Engine**  
-AI that understands your projects and generates **new workflows, architectures, and integrations** tailored to you.
-
-### **📚 Rex3a Study Planner**  
-AI-powered academic planner with routines, onboarding intelligence, topic-level breakdowns, and progress visualization.
-
-### **📱 nepCscore — Grassroots Cricket Platform**  
-Mobile-first ecosystem for Nepali cricket: real-time scoring, player portfolios, tournament management, and community engagement.
-
-### **🩸 RaktaSewa**  
-Community-driven blood-donation network built for reliability, local response, and real-time need awareness.
-
-### **📊 Actirex (ActivityInsights)**  
-Native Android system analyzing app usage, motion activity, and keypress patterns to produce **behavioral summaries with AI**.
-
-### **🌱 OneCodePlant**  
-A collaborative coding ecosystem where ideas evolve like living organisms—open, expressive, and meaningful.
-
-### **🖥 Rex Terminal**  
-A terminal-style personal interface that reflects identity, presence, and ambition through minimal interaction.
+## Current Focus  
+- AI-driven productivity and study systems  
+- Behavioral analytics and digital well-being  
+- Neuroengineering concepts and human augmentation  
+- Emotional technology and thoughtful interface design  
+- Community platforms with practical value
 
 ---
 
-## 🧬 Vision & Philosophy  
-> “Technology should not compete with humanity. It should **extend** it.”  
+## Projects
 
-My work revolves around creating systems that:  
-- enhance human consciousness  
-- clarify emotion and thought  
-- reduce friction between intention and action  
-- enable deep self-understanding  
-- preserve identity, memory, and meaning
+### **Rethinkr — Concept Synthesizer**  
+A system that learns from your existing work and generates suitable ideas, workflows, and technical directions.
 
----
+### **Rex3a Study Planner**  
+A structured study planner with AI-generated routines, topic breakdowns, progress tracking, and onboarding intelligence.
 
-## 🧠 Interests  
-- Neuroengineering & human augmentation  
-- Philosophy of mind & consciousness  
-- Ethical hacking & digital autonomy  
-- Emotional design & psych-influenced interfaces  
-- AI that helps humans think better  
-- Legacy-driven innovation  
+### **nepCscore**  
+A grassroots cricket platform for Nepal with real-time scoring, player portfolios, tournament management, and role-based access.
 
----
+### **RaktaSewa**  
+A simple and reliable blood-donation network focused on community response and availability.
 
-## 🔧 Tech Stack  
-`Kotlin` · `Jetpack Compose` · `React Native (Expo)`  
-`Node.js` · `Express` · `MongoDB`  
-`Python` · `C++` · `ROS`  
-`Supabase` · `Firebase` · `Tailwind`  
+### **Actirex (ActivityInsights)**  
+A native Android tool that analyzes app usage, motion activity, and interactions to provide behavioral summaries.
+
+### **OneCodePlant**  
+A collaborative space where ideas and projects can grow openly with clarity, structure, and purpose.
+
+### **Rex Terminal**  
+A personal terminal-style interface that represents identity through minimal design and functional storytelling.
 
 ---
 
-## 🔗 Connect  
-**Portfolio:** https://mohsin-raja.vercel.app  
-**Rex Terminal:** https://its-rex.onrender.com  
-**Team11z:** https://team11z.vercel.app  
-**X:** https://x.com/theamal11x  
-**LinkedIn:** https://www.linkedin.com/in/mohsin-raja-516595368  
+## Interests  
+- Neuroengineering and augmentation concepts  
+- Philosophy of mind and human behavior  
+- Ethical hacking and digital autonomy  
+- AI systems designed for clarity rather than distraction  
+- Interface design shaped by psychology  
+- Long-term, meaningful innovation
+
+---
+
+## Tech Stack  
+Kotlin · Jetpack Compose · React Native (Expo)  
+Node.js · Express · MongoDB  
+Python · C++ · ROS  
+Supabase · Firebase · Tailwind
+
+---
+
+## Connect  
+Portfolio: https://mohsin-raja.vercel.app  
+Rex Terminal: https://its-rex.onrender.com  
+Team11z: https://team11z.vercel.app  
+X: https://x.com/theamal11x  
+LinkedIn: https://www.linkedin.com/in/mohsin-raja-516595368
