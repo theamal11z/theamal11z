@@ -1,68 +1,63 @@
-# Mohsin Raja  
-Innovator · Developer · Neuro-Tech Aspirant  
-Birgunj, Nepal | 17 y/o | Bio-Math Student
+# Mohsin Raja // **Neuro-Tech** & **Human Systems**
+> **Innovator | 17 y/o | Birgunj, Nepal**
 
-I work at the intersection of technology, psychology, and human experience.  
-My focus is on building systems that improve how people think, learn, connect, and understand themselves.  
-Most of my projects explore ideas like human-AI cooperation, behavioral insight, emotional design, and long-term impact.
+I operate at the convergence of **Technology, Cognition, and Behavior**. My focus is on engineering systems that augment human capability—specifically in self-understanding, efficient learning, and purposeful connection. Long-term, I target human augmentation and the extension of cognitive interfaces.
 
 ---
 
-## Current Focus  
-- AI-driven productivity and study systems  
-- Behavioral analytics and digital well-being  
-- Neuroengineering concepts and human augmentation  
-- Emotional technology and thoughtful interface design  
-- Community platforms with practical value
+## ⚡ Current System Focus
+
+Deep work on high-leverage domains:
+
+* **Cognitive Augmentation:** AI systems engineered for superior productivity and study (clarity over distraction).
+* **Neuro-Interfaces:** Conceptualizing and developing non-invasive neuroengineering solutions.
+* **Behavioral Telemetry:** Building tools for digital autonomy and advanced analytics of interaction patterns.
+* **Psychological Design:** Crafting interfaces where emotional and behavioral principles drive function.
+* **Impact-Driven Platforms:** Community tools addressing tangible, real-world constraints.
 
 ---
 
-## Projects
+## 💻 Core Systems (The Stack)
 
-### **Rethinkr — Concept Synthesizer**  
-A system that learns from your existing work and generates suitable ideas, workflows, and technical directions.
-
-### **Rex3a Study Planner**  
-A structured study planner with AI-generated routines, topic breakdowns, progress tracking, and onboarding intelligence.
-
-### **nepCscore**  
-A grassroots cricket platform for Nepal with real-time scoring, player portfolios, tournament management, and role-based access.
-
-### **RaktaSewa**  
-A simple and reliable blood-donation network focused on community response and availability.
-
-### **Actirex (ActivityInsights)**  
-A native Android tool that analyzes app usage, motion activity, and interactions to provide behavioral summaries.
-
-### **OneCodePlant**  
-A collaborative space where ideas and projects can grow openly with clarity, structure, and purpose.
-
-### **Rex Terminal**  
-A personal terminal-style interface that represents identity through minimal design and functional storytelling.
+| System Name | Type | Key Function |
+| :--- | :--- | :--- |
+| **Rethinkr** | **Cognitive AI** | Concept Synthesizer. Learns project context to generate novel ideas, workflows, and technical pivots. |
+| **Actirex** | **Behavioral Telemetry** | Native Android. Provides deep behavioral summaries from app usage and motion patterns. |
+| **Rex3a** | **Productivity Engine** | AI-driven study planner with routines, topic breakdowns, and progress visualization. |
+| **nepCscore** | **Community Infra** | Grassroots cricket platform for Nepal: real-time scoring, profiles, and match management. |
+| **RaktaSewa** | **Coordination Net** | Reliable blood donation network focused on rapid community response and availability. |
+| **CodeYatraNP** | **Education / Outreach** | Initiative focused on promoting coding awareness, workshops, and project-based learning. **(New Priority)** |
+| **Rex Terminal** | **Identity Layer** | Minimal, functional terminal-style interface representing digital identity and storytelling. |
 
 ---
 
-## Interests  
-- Neuroengineering and augmentation concepts  
-- Philosophy of mind and human behavior  
-- Ethical hacking and digital autonomy  
-- AI systems designed for clarity rather than distraction  
-- Interface design shaped by psychology  
-- Long-term, meaningful innovation
+## 🔬 Explorations & Interests
+
+* **Neuroengineering / Augmentation:** Extending the limits of human cognition.
+* **Philosophy of Mind:** The mechanics of consciousness and behavior.
+* **Digital Autonomy:** Ethical hacking and the architecture of privacy.
+* **Interface Psychology:** Design driven by decision science and emotional depth.
+* **Systems Architecture:** Building for long-term impact and structural integrity.
 
 ---
 
-## Tech Stack  
-Kotlin · Jetpack Compose · React Native (Expo)  
-Node.js · Express · MongoDB  
-Python · C++ · ROS  
-Supabase · Firebase · Tailwind
+## 🛠️ Tech Blueprint
+
+* **Mobile/Client:** Kotlin (Jetpack Compose), React Native (Expo)
+* **Server/Logic:** Node.js (Express), Python, C++
+* **Data Layer:** MongoDB, Supabase, Firebase
+* **Specialized:** ROS (Robotics), Tailwind CSS
 
 ---
 
-## Connect  
-Portfolio: https://mohsin-raja.vercel.app  
-Rex Terminal: https://its-rex.onrender.com  
-Team11z: https://team11z.vercel.app  
-X: https://x.com/theamal11x  
-LinkedIn: https://www.linkedin.com/in/mohsin-raja-516595368
+## 🌐 Connect // PGP Key Available On Request
+
+* **Portfolio:** [@](https://mohsin-raja.vercel.app)
+* **Terminal:** [mini me](https://its-rex.onrender.com)
+* **Project Hub:** [CodeYatranp](https://www.codeyatranp.com/)
+* **X/Signal:** [theamal11x](https://x.com/theamal11x)
+* **LinkedIn:** [Mohsin Raja](https://www.linkedin.com/in/mohsin-raja-516595368)
+
+---
+
+> *Note: Hollowgram, Subhida, and other non-core concepts have been moved out of the main README for focus.*
